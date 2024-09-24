@@ -75,7 +75,9 @@
     back: ClothingBackpackHOPFilled
     shoes: ClothingShoesLeather # DeltaV - HoP needs something better than plebe shoes.
     id: HoPPDA
-    ears: ClothingHeadsetHoP # DeltaV - HoP is now a service role, replaces their all channels headset.
+    gloves: ClothingHandsGlovesHop
+    ears: ClothingHeadsetHoP # Grimbly - give HoP all comms
+    belt: BoxFolderClipboard
   innerClothingSkirt: ClothingUniformJumpskirtHoP
   satchel: ClothingBackpackSatchelHOPFilled
   duffelbag: ClothingBackpackDuffelHOPFilled
