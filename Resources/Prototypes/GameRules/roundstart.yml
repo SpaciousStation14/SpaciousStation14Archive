@@ -147,7 +147,7 @@
   - type: AntagSelection
     definitions:
     - prefRoles: [ Traitor ]
-      max: 8
+      max: 6 ##Was 12. Made it 6 for Spacious Pop Balance.
       playerRatio: 10
       lateJoinAdditional: true
       mindComponents:
