@@ -41,6 +41,9 @@
   - type: Item
     size: Normal
     sprite: Objects/Weapons/Melee/captain_sabre.rsi
+  - type: Utensil # Grimbly - sword can cut food
+    types:
+    - Knife
   - type: Tag
     tags:
     - CaptainSabre
@@ -82,6 +85,9 @@
   - type: Item
     size: Normal
     sprite: DeltaV/Objects/Weapons/Melee/katana.rsi #DeltaV
+  - type: Utensil # Grimbly - sword can cut food
+    types:
+    - Knife
   - type: DisarmMalus
 
 - type: entity
@@ -155,6 +161,9 @@
   - type: Item
     size: Normal
     sprite: Objects/Weapons/Melee/machete.rsi
+  - type: Utensil # Grimbly - sword can cut food
+    types:
+    - Knife
   - type: DisarmMalus
 
 - type: entity
@@ -196,6 +205,9 @@
     sprite: Objects/Weapons/Melee/claymore.rsi
     slots:
     - back
+  - type: Utensil # Grimbly - sword can cut food
+    types:
+    - Knife
   - type: DisarmMalus
 
 - type: entity
@@ -234,6 +246,9 @@
   - type: Item
     size: Normal
     sprite: Objects/Weapons/Melee/cutlass.rsi
+  - type: Utensil # Grimbly - sword can cut food
+    types:
+    - Knife
   - type: DisarmMalus
 
 - type: entity
