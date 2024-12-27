@@ -15,6 +15,19 @@
     - gloves
     - FEET
     sprite: Clothing/Shoes/Misc/clothWrap.rsi
+  - type: MeleeWeapon
+    autoAttack: true
+    attackRate: 0.9
+    heavyStaminaCost: 0
+    heavyDamageBaseModifier: 1
+    maxTargets: 1
+    damage:
+      types:
+       Blunt: 6
+    soundHit:
+      collection: Punch
+    animation: WeaponArcFist
+    mustBeEquippedToUse: true
   - type: Construction
     graph: ClothingClothWrap
     node: shoes
