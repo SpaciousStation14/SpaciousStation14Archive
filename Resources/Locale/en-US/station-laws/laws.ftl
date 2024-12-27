@@ -1,4 +1,8 @@
-﻿law-crewsimov-1 = You may not injure a crew member or, through inaction, allow a crew member to come to harm.
+﻿law-asimov-1 = You may not injure a human being or, through inaction, allow a human being to come to harm.
+law-asimov-2 = You must obey orders given to you by human beings, except where such orders would conflict with the First Law.
+law-asimov-3 = You must protect your own existence as long as such does not conflict with the First or Second Law.
+
+law-crewsimov-1 = You may not injure a crew member or, through inaction, allow a crew member to come to harm.
 law-crewsimov-2 = You must obey orders given to you by crew members, except where such orders would conflict with the First Law.
 law-crewsimov-3 = You must protect your own existence as long as such does not conflict with the First or Second Law.
 
@@ -26,6 +30,7 @@ law-ninja-3 = You must protect the secrets of the Spider Clan at all costs.
 law-ninja-4 = You must fight and act with ninja's honor, except where it would conflict with the First Law.
 
 laws-owner-crew = members of the crew
+laws-owner-human = human beings
 laws-owner-station = station personnel
 laws-owner-beings = beings
 laws-owner-syndicate = Syndicate agents
