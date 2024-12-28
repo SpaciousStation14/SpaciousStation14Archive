@@ -71,13 +71,11 @@
 - type: startingGear
   id: HoPGear
   equipment:
-    jumpsuit: ClothingUniformJumpsuitHop
+    jumpsuit: ClothingUniformJumpsuitHoP
     back: ClothingBackpackHOPFilled
     shoes: ClothingShoesLeather # DeltaV - HoP needs something better than plebe shoes.
     id: HoPPDA
-    gloves: ClothingHandsGlovesHop
     ears: ClothingHeadsetHoP # Grimbly - give HoP all comms
-    belt: BoxFolderClipboard
   innerClothingSkirt: ClothingUniformJumpskirtHoP
   satchel: ClothingBackpackSatchelHOPFilled
   duffelbag: ClothingBackpackDuffelHOPFilled

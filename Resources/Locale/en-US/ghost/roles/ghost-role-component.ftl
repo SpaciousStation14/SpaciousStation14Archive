@@ -1,5 +1,4 @@
 # also used in MakeGhostRuleWindow and MakeGhostRoleCommand
-# Grimbly - modify rat king rules to be more neutral
 ghost-role-component-default-rules = All normal rules apply unless an administrator tells you otherwise.
                                      You don't remember any of your previous life, and you don't remember anything you learned as a ghost.
                                      You are allowed to remember knowledge about the game in general, such as how to cook, how to use objects, etc.
@@ -51,6 +50,7 @@ ghost-role-information-monkey-description = Ook ook!
 ghost-role-information-kobold-name = Kobold
 ghost-role-information-kobold-description = Be the little gremlin you are, yell at people and beg for meat!
 
+# Grimbly - modify rat king rules to be more neutral
 ghost-role-information-rat-king-name = Rat King
 ghost-role-information-rat-king-description = You are the Rat King, scavenge food in order to produce rat minions to do your bidding.
 ghost-role-information-rat-king-rules =  You have no allegiance, so scavenge, attack, and grow your hoard or learn to live in peace with the crew. 

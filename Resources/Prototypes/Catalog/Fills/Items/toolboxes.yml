@@ -18,20 +18,20 @@
         orGroup: LightingItem
       - id: GlowstickBase
         orGroup: LightingItem
-      # Grimbly - Oxygen
+      # Grimbly - end
       - id: ClothingMaskBreath
       - id: ClothingMaskBreath
       - id: EmergencyOxygenTankFilled
       - id: EmergencyOxygenTankFilled
-      # Grimbly items end
-      # Low-chance items
+      # Grimbly low-chance items start
       - id: FoodSnackChocolate
         prob: 0.15
       - id: HarmonicaInstrument
         prob: 0.10
       - id: FoodTinMRE
         prob: 0.20
- 
+      # Grimbly low-chance items end
+      
 - type: entity
   id: ToolboxElectricalFilled
   name: electrical toolbox
