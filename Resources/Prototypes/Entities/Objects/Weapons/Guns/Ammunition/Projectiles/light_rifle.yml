@@ -7,7 +7,7 @@
   - type: Projectile
     damage:
       types:
-        Piercing: 24
+        Piercing: 24  # Spacious Station - buff damage
 
 - type: entity
   id: BulletLightRiflePractice
@@ -40,7 +40,7 @@
   - type: Projectile
     damage:
       types:
-        Blunt: 4
+        Blunt: 4 # Spacious Station - buff Blunt/Heat damage
         Heat: 20
 
 - type: entity
@@ -54,4 +54,4 @@
       types:
         Radiation: 9
         Piercing: 10
-    ignoreResistances: true
+    ignoreResistances: true # Spacious Station - ignore resistances
