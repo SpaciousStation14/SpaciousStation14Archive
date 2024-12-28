@@ -49,10 +49,6 @@
     templateId: ratking
   - type: InventorySlots
   - type: Strippable
-  - type: UserInterface
-    interfaces:
-    - key: enum.StrippingUiKey.Key
-      type: StrippableBoundUserInterface
   - type: Puller
     needsHands: false
   - type: IdExaminable
@@ -147,6 +143,8 @@
     interfaces:
       enum.SurgeryUIKey.Key:
         type: SurgeryBui
+      enum.StrippingUiKey.Key: # Grimbly - add stripping ui
+        type: StrippableBoundUserInterface
 
 - type: entity
   id: MobRatKingBuff
