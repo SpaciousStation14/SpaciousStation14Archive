@@ -15,7 +15,7 @@
     - gloves
     - FEET
     sprite: Clothing/Shoes/Misc/clothWrap.rsi
-  - type: MeleeWeapon
+  - type: MeleeWeapon # Spacious Station - add melee weapon damage
     autoAttack: true
     attackRate: 0.9
     heavyStaminaCost: 0
