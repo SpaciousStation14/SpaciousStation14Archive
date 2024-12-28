@@ -2,7 +2,7 @@
   name: Rat King
   id: MobRatKing
   parent: [ SimpleMobBase, MobCombat ] 
-  description: He's da rat king. He make da roolz.
+  description: He's da rat king. He make da roolz. # Grimbly
   components:
   - type: CombatMode
   - type: MovementSpeedModifier
@@ -42,7 +42,7 @@
         - SmallMobMask
         layer:
         - SmallMobLayer
-  - type: Hands #Grimbly - ratking ID and headset
+  - type: Hands #Grimbly - ratking ID, headset, hands - Start
   - type: Inventory
     speciesId: ratking
     templateId: ratking
@@ -57,9 +57,9 @@
   - type: IdExaminable
   - type: MobState
   - type: MobThresholds
-    thresholds:
+    thresholds: #Grimbly - End
       0: Alive
-      200: Dead
+      200: Dead 
   - type: MeleeWeapon
     soundHit:
         path: /Audio/Weapons/Xeno/alien_claw_flesh1.ogg

@@ -7,6 +7,7 @@
   - type: StorageFill
     contents:
       - id: CrowbarRed
+      # Grimbly items start
       - id: RadioHandheld
       - id: WelderMini
       - id: FireExtinguisherMini
@@ -22,6 +23,7 @@
       - id: ClothingMaskBreath
       - id: EmergencyOxygenTankFilled
       - id: EmergencyOxygenTankFilled
+      # Grimbly items end
       # Low-chance items
       - id: FoodSnackChocolate
         prob: 0.15
