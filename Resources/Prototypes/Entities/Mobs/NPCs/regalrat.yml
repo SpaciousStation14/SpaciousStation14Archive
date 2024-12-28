@@ -42,7 +42,7 @@
         - SmallMobMask
         layer:
         - SmallMobLayer
-        #Grimbly - ratking ID, headset, hands - Start
+  # Grimbly - ratking ID, headset, hands - Start
   - type: Hands
   - type: Inventory
     speciesId: ratking
@@ -58,10 +58,11 @@
   - type: IdExaminable
   - type: MobState
   - type: MobThresholds
-  #Grimbly - End
+  
     thresholds:
       0: Alive
-      200: Dead 
+      200: Dead
+  # Grimbly - End
   - type: MeleeWeapon
     soundHit:
         path: /Audio/Weapons/Xeno/alien_claw_flesh1.ogg
