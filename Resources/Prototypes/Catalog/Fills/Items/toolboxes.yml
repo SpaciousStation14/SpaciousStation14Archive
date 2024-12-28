@@ -18,7 +18,7 @@
         orGroup: LightingItem
       - id: GlowstickBase
         orGroup: LightingItem
-      # Grimbly - end
+      # Grimbly items end
       - id: ClothingMaskBreath
       - id: ClothingMaskBreath
       - id: EmergencyOxygenTankFilled
