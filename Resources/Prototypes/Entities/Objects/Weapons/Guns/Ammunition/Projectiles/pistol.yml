@@ -49,7 +49,7 @@
   name: bullet (.35 auto uranium)
   categories: [ HideSpawnMenu ]
   components:
-  - type: Projectile
+  - type: Projectile # Spacious Station - buff damage and ignore resistances
     damage:
       types:
         Radiation: 10
